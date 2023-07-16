@@ -1,2 +1,2 @@
 # Products_App
- a product app using resful apius
+ a product app using resful apis
